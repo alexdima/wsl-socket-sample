@@ -8,3 +8,5 @@
 * (everything still works...)
 * enable external network adapter
 * the WebSocket closes
+
+<img src="repro.gif" />
