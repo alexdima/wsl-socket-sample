@@ -8,5 +8,6 @@
 * (everything still works...)
 * enable external network adapter
 * the WebSocket closes
+* also look closely at the `vEthernet (WSL)` adapter which flickers off/on
 
 <img src="repro.gif" />
